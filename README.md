@@ -1,7 +1,8 @@
 # Extremely-Simple-Python-Text-Based-RPG-
 A really simple python project for my 12th grade python course I made way back. 
 I'm currently pursuing Mechanical Engineering so I'm sort of leaving this as my last big coding project
-I'm proud of it as i used only what i learnt from the course to make it, completely on my own
+I'm proud of it as i used only what i learnt from the course to make it, completely on my own (EXCEPT THE ASCII ART, 
+I think i mentioned where I got it from at the end)
 As a result its probably TERRIBLY made and full of things that could be optimized but I'm still happy with it.
 Definetely feel free to change the damage values, not sure if they were optimal
 
